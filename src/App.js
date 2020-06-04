@@ -72,8 +72,6 @@ class App extends React.Component{
              <h5 className="text-center">See the result: </h5>
               <div className="preview rounded" id = "preview"
                dangerouslySetInnerHTML={{__html:markdown}}/>
-
-              
               
               </div> 
 
